@@ -2,7 +2,7 @@
 # support email. Run from the repo root: python3 tools/build.py
 import pathlib
 root = pathlib.Path(__file__).resolve().parent.parent
-EMAIL = "support@quilo.app"  # the support address shown on every page
+EMAIL = "topsol.org@gmail.com"  # the support address shown on every page
 pages = {
   "index.html": ("", "Quilo: AI Chatbot Assistant", "Ask anything, snap a photo, summarize a PDF or create an image. Quilo picks the right AI for every question.", "home"),
   "support/index.html": ("../", "Support · Quilo", "Get help with Quilo: subscriptions, restoring purchases, privacy and contact.", "support"),

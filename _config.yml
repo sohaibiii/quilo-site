@@ -1,0 +1,2 @@
+# GitHub Pages: serve the built HTML as-is; skip the sources and build script.
+exclude: [tools, README.md]
